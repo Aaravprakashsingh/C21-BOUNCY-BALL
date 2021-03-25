@@ -1,1 +1,2 @@
-# C21-BOUNCY-BALL
+# collisionAlgorithm
+Algorithm to detect collision between two objects
